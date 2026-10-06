@@ -26,7 +26,7 @@
 | [**distributed-kv-store**](https://github.com/visu2211/distributed-kv-store) | A distributed key-value store in Java, built up over a nine-phase plan (storage engine + tests done so far) |
 | [**Learn_Track**](https://github.com/visu2211/Learn_Track) | Flutter/Dart app |
 
-### Tech I use
+<h3 align="center">Tech I use</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="48" />&nbsp;&nbsp;&nbsp;
