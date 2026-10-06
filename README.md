@@ -13,7 +13,7 @@
 
 ### About me
 
-- 🎓 CS + Data Science at **Rutgers University Honors College**, graduating May 2027
+- 🎓 CS + Data Science at **Rutgers University Honors College**, graduating Dec 2027
 - 💼 SWE intern at **Capital One** (NYC), working on GPU scheduling infra for LLM-based speech-to-text inference routing
 - 🧑‍🏫 TA for the Rutgers CS department and Section Leader for Stanford's **Code in Place**
 - 📚 Currently reading *Designing Data-Intensive Applications* and *OSTEP*
