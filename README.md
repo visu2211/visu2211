@@ -24,23 +24,26 @@
 | Project | What it is |
 | --- | --- |
 | [**distributed-kv-store**](https://github.com/visu2211/distributed-kv-store) | A distributed key-value store in Java, built up over a nine-phase plan (storage engine + tests done so far) |
-| **New grad job board** | Live-scraping job board that pulls from GitHub trackers, parses a bunch of markdown formats, and has a quant/trading filter |
-| [**PulseApp**](https://github.com/visu2211/PulseApp) | Swift app that automates Apple HomeKit using sleep data from Apple Health |
 | [**Learn_Track**](https://github.com/visu2211/Learn_Track) | Flutter/Dart app |
 
 ### Tech I use
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,dart,flutter,swift,maven,git,linux,vscode,idea&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="48" />
 </p>
 
-### Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=visu2211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visu2211&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visu2211&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=swift" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" width="48" />
+</p>
